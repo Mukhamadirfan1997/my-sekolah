@@ -1,4 +1,4 @@
-import HeroImage from "../assets/images/gambar1.png";
+import HeroImage from "../assets/images/Logosekolah.png";
 import AboutImage from "../assets/images/gambar4.jpg";
 import Prestasi1 from "../assets/images/Prestasi1.jpg";
 import Prestasi2 from "../assets/images/Prestasi2.jpg";
